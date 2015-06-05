@@ -1,0 +1,243 @@
+body {
+	background-image: url("../img/background.jpg");
+	width: 961px;
+}
+
+.header-wrap {
+	width: 961px;
+	height: 100px;
+	margin-left: 230px;
+}
+
+.rev {
+	height: 75px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.avail {
+	border: 3px solid black;
+	float: right;
+	width: 73%;
+	height: 80px;
+	margin-top: 5px;
+}
+
+.nav-container {
+	margin-left: 230px;
+	width: 100%;
+	border: 1px solid black;
+	background-image: -webkit-linear-gradient(270deg,rgba(75,75,75,1.00)0%,rgba(5,5,5,1.00)25%);
+}
+
+.navbar-text-wrap {
+	margin-left: 25px;
+}
+
+.navbar-text-wrap li {
+	font-family: arial;
+	color: white;
+	list-style: none;
+	display: inline;
+}
+
+.navbar-text-wrap li:after { 
+	content: "|"; 
+	padding: 0.5em; 
+}
+
+.navbar-text-wrap li:last-child:after {
+	content: "";
+}
+
+.navbar-text-wrap li span:hover {
+	color: #891016;
+	cursor: pointer;
+}
+
+.navbar-text-wrap li span {
+	font-family: "century gothic";
+}
+
+.center-pic {
+	height: 450px;
+	width: 100%;
+	margin-left: 230px;
+	border: 1px solid black;
+	background-image: url("../img/center-pic.jpg");
+	background-size: cover;
+}
+
+#promo-carousel {
+	height: 108px;
+	width: 95%;
+	background-color: rgba(0,0,0,0.71);
+	border: 2px solid #891016;
+	margin-left: 20px;
+	margin-top: 335px;
+	overflow: hidden;
+}
+
+.ezio-alt {
+	display: inline-block;
+	background-image: url("../img/ezio-alt.jpg");
+	background-repeat: no-repeat;
+	height: 100px;
+	margin-top: 9px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.side-text {
+	width: 150px;
+	height: 86px;
+	margin-left: 137px;
+}
+
+.h3-side-text {
+	color: #891016;
+	margin: 0;
+	padding: 0;
+}
+
+.p-side-text {
+	color: white;
+	margin: 0;
+	width: 137px;
+	font-size: 11px;
+}
+
+.ezio-cliff {
+	display: inline-block;
+	background-image: url("../img/ezio-cliff.jpg");
+	background-repeat: no-repeat;
+	height: 100px;
+	margin-top: 9px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.ezio-kill {
+	display: inline-block;
+	background-image: url("../img/ezio-kill.jpg");
+	background-repeat: no-repeat;
+	height: 100px;
+	margin-top: 9px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.life-wrap {
+	margin-top: -8px;
+	margin-left: 230px;
+	width: 100%;
+}
+
+.left-header {
+	border: 1px solid #891016;
+	background-color: #891016;
+	height: 35px;
+}
+
+.header-text {
+	font-family: arial;
+	font-size: 15px;
+	color: white;
+	margin-top: 7px;
+	margin-left: 13px;
+}
+
+.right-header {
+	border: 1px solid #891016;
+	background-color: #891016;
+	height: 35px;
+}
+
+.life-left {
+	display: inline-block;
+	background-color: black;
+	border: 1px solid black;
+	height: 260px;
+	width: 30%;
+	height: 350px;
+}
+
+.life-right {
+	margin-left: 11px;
+	position: absolute;
+	display: inline-block;
+	background-color: black;
+	border: 1px solid black;
+	width: 46%;
+	height: 350px;
+}
+
+.side-text-wide {
+	width: 500px;
+	height: 86px;
+	margin-left: 137px;
+}
+
+.p-side-text-wide {
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-size: 10px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    margin-left: 230px;
+    width: 100%;
+}
+
+.ads {
+	height: 250px;
+	width: 100%;
+	margin-left: 230px;
+}
+
+.ubisoft {
+	padding-left: 48px;
+}
+
+.xbox {
+	padding-left: 46px;
+}
+
+.playstation {
+	padding-left: 46px;
+}
+
+.pc-dvd {
+	padding-left: 30px;
+}
+
+.privacy {
+	margin-left: 325px;
+}
+
+.mature {
+	padding-left: 22px;
+	margin-top: 7px;
+}
+
+.blood-lang {
+	margin-bottom: 20px;
+}
+
+.footer {
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
